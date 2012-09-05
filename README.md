@@ -1,4 +1,4 @@
-![Average face of people arrested by the Cook County Sherrif on September 3, 2012](https://github.com/fgregg/average-arrest/raw/master/wow.jpg "Average face of people arrested by the Cook County Sherrif on September 3, 2012")
+![Average face of people arrested by the Cook County Sherrif on September 3, 2012, N=144](https://github.com/fgregg/average-arrest/raw/master/wow.jpg "Average face of people arrested by the Cook County Sherrif on September 3, 2012, N=144")
 
 The Average Arrest
 ==============
@@ -19,7 +19,7 @@ Technical
       contain people with money and lawyers.
 2. Average the faces together.
   * Ideally, we would use [jpsychomorph](http://users.aber.ac.uk/bpt/jpsychomorph/). It's what we used to create
-    the above image. However, we need to figure out how to use it non-interactively. 
+    the above image (N=144). However, we need to figure out how to use it non-interactively. 
     1. Ask Bernie Tiddeman for code
     2. Create wrapper for jpsychomorph, http://users.aber.ac.uk/bpt/jpsychomorph/version4/javadoc/
     3. Recreate the functionality
