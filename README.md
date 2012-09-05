@@ -18,3 +18,5 @@ http://blog.patdavid.net/2012/08/imagemagick-average-blending-files.html
 http://sourceforge.net/apps/mediawiki/pyvision/index.php?title=FaceL:_Facile_Face_Labeling
 
 http://code.google.com/p/aam-opencv/
+
+http://cherry.dcs.aber.ac.uk:8080/wiki/plugin
