@@ -1,5 +1,4 @@
-
-![alt text](https://github.com/fgregg/average-arrest/raw/master/src/wow.jpg "Logo Title Text 1")
+![alt text](https://github.com/fgregg/average-arrest/raw/master/wow.jpg "Logo Title Text 1")
 
 average-arrest
 ==============
